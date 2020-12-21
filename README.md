@@ -1,1 +1,1 @@
-# Actividad-2-ESP8266-M-dulo-Wi-Fi---ThingSpeak
+#  Actividad2-ESP8266-Modulo-Wi-Fi-con-ThingSpeak
